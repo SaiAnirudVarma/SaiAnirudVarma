@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Sai Anirud Varma
 
-<!--
-**SaiAnirudVarma/SaiAnirudVarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Senior Software Engineer | Backend & Data Platforms
+I specialize in architecting high-throughput asynchronous applications, distributed data systems, and resilient cloud architectures. Driven by automated testing, clean code parameters, and robust CI/CD execution matrices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise & Focus Areas
+* **System Architecture:** Asynchronous Backend Engines, Multi-Agent System State Validation, Microservices
+* **Data Engineering:** High-Throughput Stream Ingestion, Data Pipeline Optimization, Chunked Ingestion Patterns
+* **DevOps & Automation:** CI/CD Test Harness Automation, Containerized Environments, Automated Integrity Auditing
+
+---
+
+### ⚡ Technical Toolbelt
+* **Languages & Frameworks:** Python (FastAPI, Asyncio), Swift
+* **Data Processing & Caching:** Pandas, Polars, Redis
+* **Infrastructure & Automation:** Docker, Docker Compose, GitHub Actions, Pytest
+
+---
+
+*“If it isn't automatically tested, it's broken by design.”*
