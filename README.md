@@ -1,21 +1,21 @@
 ## 👋 Hi, I'm Sai Anirud Varma
 
-### 👨‍💻 Senior Software Engineer | Backend & Data Platforms
-I specialize in architecting high-throughput asynchronous applications, distributed data systems, and resilient cloud architectures. Driven by automated testing, clean code parameters, and robust CI/CD execution matrices.
+### 🚀 Forward Deployed & Full-Stack Engineer | Enterprise Solutions
+I bridge the gap between complex system architecture and high-impact deployment. I specialize in building robust full-stack applications, managing distributed backend/data layers, and deploying production-grade integrations tailored for enterprise environments.
 
 ---
 
 ### 🛠️ Core Expertise & Focus Areas
-* **System Architecture:** Asynchronous Backend Engines, Multi-Agent System State Validation, Microservices
-* **Data Engineering:** High-Throughput Stream Ingestion, Data Pipeline Optimization, Chunked Ingestion Patterns
-* **DevOps & Automation:** CI/CD Test Harness Automation, Containerized Environments, Automated Integrity Auditing
+* **Forward Deployed Engineering:** Client-Facing Solution Architecture, Technical Integration, Rapid Prototyping, Cross-Functional Execution
+* **Full-Stack Application Development:** End-to-End Feature Delivery, High-Performance UIs, Stateful State Validation Engines
+* **System Infrastructure & DevOps:** High-Throughput Async Backend Layers, Containerized Deployments, Automated CI/CD Testing Frameworks
 
 ---
 
 ### ⚡ Technical Toolbelt
-* **Languages & Frameworks:** Python (FastAPI, Asyncio), Swift
-* **Data Processing & Caching:** Pandas, Polars, Redis
-* **Infrastructure & Automation:** Docker, Docker Compose, GitHub Actions, Pytest
+* **Languages & Frameworks:** Python (FastAPI, Asyncio), Swift, JavaScript/TypeScript
+* **Data Layers & Caching:** Pandas, Polars, Redis, SQL
+* **Infrastructure & Automation:** Docker, Docker Compose, GitHub Actions, Pytest, Git
 
 ---
 
